@@ -1,0 +1,10 @@
+.git/
+.env
+.env.*
+instance/
+*.db
+*.sqlite
+*.sqlite3
+app/static/uploads/avatars/*
+app/static/uploads/videos/*
+app/static/uploads/logos/*
